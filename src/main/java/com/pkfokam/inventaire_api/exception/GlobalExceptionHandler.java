@@ -1,6 +1,6 @@
-package com.inventaire.api.exception;
+package com.pkfokam.inventaire_api.exception;
 
-import com.inventaire.api.dto.ApiResponse;
+import com.pkfokam.inventaire_api.dto.ApiResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

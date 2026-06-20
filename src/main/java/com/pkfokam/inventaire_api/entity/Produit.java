@@ -1,4 +1,4 @@
-package com.inventaire.api.entity;
+package com.pkfokam.inventaire_api.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
